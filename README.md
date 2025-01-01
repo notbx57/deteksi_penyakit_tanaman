@@ -4,7 +4,10 @@ Aplikasi web untuk deteksi penyakit tanaman
 
 Rencana Pembuatan WebApp
 
-Stack : Next.js Frontend : React Backend : Typescript API : dari Python
+Stack : Next.js 
+Frontend : React 
+Backend : Typescript 
+API : dari Python
 
 Langkah :
 
