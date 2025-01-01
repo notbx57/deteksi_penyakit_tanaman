@@ -22,4 +22,8 @@ Untuk Model Python :
 2. Praproses image sesuai kebutuhan model agar akurasi mantap
 3. Gunakan model yang sudah ada (Transfer Learning) atau buat sendiri
 4. Train Model selama beberapa epoch
-5. Prediksi gambar test
+5. Save Model
+
+6. Pake model di program terpisah
+7. Buat server di python untuk kirim hasil prediksi lewat API
+8. Serve program prediksi
