@@ -1,4 +1,4 @@
-# deteksi_penyakit_tanaman
+# Deteksi Penyakit Tanaman (Next.js)
 
 Aplikasi web untuk deteksi penyakit tanaman
 
