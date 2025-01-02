@@ -16,7 +16,7 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-Model = tf.keras.models.load_model("C:/Users/1650/Documents/TubesPCD/deteksi_penyakit_tanaman/python_models/plant_resnet50v2new.keras")
+Model = tf.keras.models.load_model("C:/Users/1650/Documents/TubesPCD/deteksi_penyakit_tanaman/python_models/plant_custom.keras")
 ClassNames = [
     "Pepper__bell___Bacterial_spot",
     "Pepper__bell___healthy",
